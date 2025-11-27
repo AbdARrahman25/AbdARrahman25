@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # AbdARrahman25
 
 ![](https://leetcard.jacoblin.cool/AbdARrahman?ext=heatmap)
